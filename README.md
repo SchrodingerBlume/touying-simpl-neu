@@ -3,7 +3,7 @@
 本模板基于 Touying [Dewdrop](https://github.com/touying-typ/touying/blob/main/themes/dewdrop.typ) 主题开发，
 并修改自上海交通大学 Touying 幻灯片主题（touying-sjtu），以适配东北大学的使用需求。
 
-![Thumbnail of the project](https://github.com/SchrodingerBlume/touying-neu/blob/main/thumbnail.png)
+![Thumbnail of the project](https://github.com/SchrodingerBlume/touying-simpl-neu/blob/main/thumbnail.png)
 
 ## 示例
 
