@@ -2,7 +2,7 @@
 name = "touying-simpl-neu"
 version = "0.1.0"
 entrypoint = "lib.typ"
-authors = [ "tzhTaylor" ]
+authors = [ "SchrodingerBlume" ]
 license = "MIT"
 description = "东北大学 Touying 幻灯片主题 (Touying Slide Theme for NEU)"
 repository = "https://github.com/SchrodingerBlume/touying-simpl-neu"
